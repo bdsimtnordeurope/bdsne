@@ -75,6 +75,7 @@ button:hover {
     .col {
         flex: 1; 
         margin: auto;
+        margin-top: 10%;
         text-align: center;
       }
 }
