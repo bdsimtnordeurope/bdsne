@@ -72,6 +72,13 @@ button:hover {
       margin: 1em 2em;
     }
 
+    .planning
+{
+  display: flex;
+  text-align: center;
+  
+}
+
     .row {
         display: inline;
         margin-top: 15%;
