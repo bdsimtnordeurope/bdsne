@@ -10,7 +10,9 @@ h1 {
 
 .planning
 {
+  display: flex;
   text-align: center;
+  
 }
 
 button {
