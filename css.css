@@ -1,11 +1,16 @@
 body
 {
-    background-color: rgb(116, 208, 241);
-    height: 100vh;
+  background-color: rgb(116, 208, 241);
+  height: 100vh;
 }
 
 h1 {
     font-family:  "Arial Black", Arial, Verdana, sans-serif, Impact;
+}
+
+.planning
+{
+  text-align: center;
 }
 
 button {
@@ -48,7 +53,7 @@ button:hover {
 
 .row {
     display: flex;
-    margin-top: 15%;
+    margin-top: 8%;
     vertical-align: middle;
     
   }
